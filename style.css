@@ -33,5 +33,12 @@ h1 {
 }
     .Regiões{
     width: 700px;
-    height: 300px;
+    height: 300px;}
+
+.Regiões{
+    body {
+        color: aliceblue;
+        background-color: rgb(48, 89, 124);
+        font-family:Arial, Helvetica, sans-serif ;
     }
+}
