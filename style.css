@@ -33,3 +33,7 @@ img {
     width: 552px;
     height: 552px;
 }
+footer {
+    display: flex;
+    justify-content: center;
+}
